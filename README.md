@@ -1,2 +1,5 @@
 # resumo-do-lab-2
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
+Com este lab, foram aprofundadas as ideias propostas pelo SLA, ou Service Level Agreement, que comunica principalmente o "Uptime", demonstrando através de uma porcentagem o tempo de inatividade de seus serviços. Esta porcentagem normalmente varia entre 99%, 99.9%, 99.95%, 99.99% ou 99.999% , representando enfim um período de inatividade anual de 5.26 minutos; tendo por motivos atualizações ou manutenções dos servidores, mas que também, pelo mesmo contrato, oferece resarcimento conforme o tempo previsto seja excedido.
+Ainda nesta videoaula, foram demonstrados os primeiros passos da criação de uma máquina virtual através do Microsoft Azure, suas configurações, opções de disponibilidade, e como todas informações estão disponíveis através da documentação, esclarecendo cada seção do requerimento do serviço que pode ser personalizada. Por fim, apresentou-se a forma que é possível contratar outros servidores de armazenamento, para prevenção da perda de dados no caso de uma eventual queda do servidor principal.
